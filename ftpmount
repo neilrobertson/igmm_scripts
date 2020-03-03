@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sudo mount -t cifs -o domain=ED,username=s1856966,noperm //cmvm.datastore.ed.ac.uk/igmm/ftp/secret/01760163 /mnt/tchandra-ftp
+
+
+

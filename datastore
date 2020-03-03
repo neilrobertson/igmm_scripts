@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo mount -t cifs -o domain=ED,username=s1856966,noperm //cmvm.datastore.ed.ac.uk/igmm/tchandra-lab /mnt/tchandra-lab
+sudo mount -t cifs -o domain=ED,username=s1856966,noperm //cmvm.datastore.ed.ac.uk/igmm/senescence /mnt/senescence
+

@@ -1,0 +1,1 @@
+sudo nmcli con down EdLAN
